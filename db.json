@@ -1,5 +1,18 @@
 {
   "users": [
     { "id": 1, "mobile": "966541184580" }
+  ],
+  
+  "posts": [
+    { "id": 1, "title": "Home", "The place where one lives permanently, especially as a member of a family or household" },
+    { "id": 2, "title": "Car", "A road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people" },
+    { "id": 3, "title": "Cat", "A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed" },
+    { "id": 4, "title": "Tree", "A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground" },
+    { "id": 5, "title": "Window", "An opening in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out" },
+    { "id": 6, "title": "Apple", "The round fruit of a tree of the rose family, which typically has thin green or red skin and crisp flesh." },
+    { "id": 7, "title": "Laptop", "A computer that is portable and suitable for use while travelling." },
+    { "id": 8, "title": "Bed", "A piece of furniture for sleep or rest, typically a framework with a mattress" },
+    { "id": 9, "title": "Lamp", "A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade" },
+    { "id": 10, "title": "Bag", "A flexible container with an opening at the top, used for carrying things." }
   ]
 }
