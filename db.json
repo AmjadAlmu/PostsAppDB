@@ -2,6 +2,10 @@
   "users": [
     { "id": 1, "mobile": "966541184580" }
   ],
+  
+  "auths": [
+    { "id": 1, "mobile": "966541184580", "code": "223" }
+  ],
 
   "posts": [
     { "id": 1, "title": "Home", "Details": "The place where one lives permanently, especially as a member of a family or household" },
