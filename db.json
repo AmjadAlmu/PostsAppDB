@@ -3,6 +3,9 @@
     { "id": 1, "mobile": "966541184580" }
   ],
   
+  "auth": [
+    ]
+  
   "posts": [
     { "id": 1, "title": "Home", "Details": "The place where one lives permanently, especially as a member of a family or household" },
     { "id": 2, "title": "Car", "Details": "A road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people" },
